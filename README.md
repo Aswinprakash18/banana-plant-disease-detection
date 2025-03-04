@@ -70,6 +70,5 @@ Future Improvements
 License
 This project is licensed under the MIT License.
 
-Contributors
-🚀  Developer & Researcher -aswinprakash and sivasreeram
+
 
