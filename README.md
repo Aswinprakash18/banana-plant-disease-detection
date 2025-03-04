@@ -1,1 +1,1 @@
-# banana-plant-disease-detection
+# banana-plant-disease-detection lenet
